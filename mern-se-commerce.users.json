@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "67cd30a997fa235c87582a3f"
+  },
+  "email": "654259030@webmail.npru.ac.th",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cdb21ce8cb9e16fe724863"
+  },
+  "email": "test-admin@mail.com",
+  "role": "admin",
+  "__v": 0
+}]

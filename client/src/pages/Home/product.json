@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "1",
+    "name": "Coding keyboard",
+    "description": "Mechanical keyboard optimized for Coding with customizable keys",
+    "price": "3500",
+    "image": "https://picsum.photos/200/300",
+    "category": "Gadgets"
+  },
+  {
+    "_id": "2",
+    "name": "Stylish T-shirt",
+    "description": "Comfortable cotton t-shirt with a trendy design",
+    "price": "500",
+    "image": "https://picsum.photos/200/300",
+    "category": "Clothing"
+  },
+  {
+    "_id": "3",
+    "name": "Leather Wallet",
+    "description": "Durable leather wallet with multiple compartments",
+    "price": "1500",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "4",
+    "name": "Smartwatch",
+    "description": "Feature-packed smartwatch with health tracking",
+    "price": "2500",
+    "image": "https://picsum.photos/200/300",
+    "category": "Gadgets"
+  },
+  {
+    "_id": "5",
+    "name": "Backpack",
+    "description": "Spacious and ergonomic backpack for everyday use",
+    "price": "1200",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "6",
+    "name": "Baseball Cap",
+    "description": "Classic baseball cap with adjustable strap",
+    "price": "300",
+    "image": "https://picsum.photos/200/300",
+    "category": "Clothing"
+  },
+  {
+    "_id": "7",
+    "name": "Bluetooth Earbuds",
+    "description": "Wireless earbuds with superior sound quality",
+    "price": "2000",
+    "image": "https://picsum.photos/200/300",
+    "category": "Gadgets"
+  },
+  {
+    "_id": "8",
+    "name": "Keychain",
+    "description": "Stylish keychain made from high-quality metal",
+    "price": "150",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "9",
+    "name": "Graphic Hoodie",
+    "description": "Cozy hoodie with a cool graphic design",
+    "price": "800",
+    "image": "https://picsum.photos/200/300",
+    "category": "Clothing"
+  },
+  {
+    "_id": "10",
+    "name": "Travel Mug",
+    "description": "Insulated travel mug to keep your drinks hot or cold",
+    "price": "400",
+    "image": "https://picsum.photos/200/300",
+    "category": "Swag"
+  },
+  {
+    "_id": "11",
+    "name": "Wireless Charger",
+    "description": "Fast wireless charger for smartphones",
+    "price": "1000",
+    "image": "https://picsum.photos/200/300",
+    "category": "Gadgets"
+  },
+  {
+    "_id": "12",
+    "name": "Beanie",
+    "description": "Warm beanie with a soft fleece lining",
+    "price": "350",
+    "image": "https://picsum.photos/200/300",
+    "category": "Clothing"
+  },
+  {
+    "_id": "13",
+    "name": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "price": "600",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "14",
+    "name": "Phone Case",
+    "description": "Durable phone case with a sleek design",
+    "price": "700",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "15",
+    "name": "Water Bottle",
+    "description": "Reusable water bottle with a flip-top lid",
+    "price": "450",
+    "image": "https://picsum.photos/200/300",
+    "category": "Swag"
+  },
+  {
+    "_id": "16",
+    "name": "Wireless Speaker",
+    "description": "Portable Bluetooth speaker with deep bass",
+    "price": "1800",
+    "image": "https://picsum.photos/200/300",
+    "category": "Gadgets"
+  },
+  {
+    "_id": "17",
+    "name": "Leather Belt",
+    "description": "Classic leather belt with a sleek buckle",
+    "price": "900",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "18",
+    "name": "Cotton Socks",
+    "description": "Soft cotton socks for everyday comfort",
+    "price": "250",
+    "image": "https://picsum.photos/200/300",
+    "category": "Clothing"
+  },
+  {
+    "_id": "19",
+    "name": "Laptop Sleeve",
+    "description": "Padded laptop sleeve for protection on the go",
+    "price": "800",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "20",
+    "name": "Tote Bag",
+    "description": "Eco-friendly tote bag with ample space",
+    "price": "400",
+    "image": "https://picsum.photos/200/300",
+    "category": "Swag"
+  },
+  {
+    "_id": "21",
+    "name": "Mechanical Pencil",
+    "description": "High-quality mechanical pencil for precise writing",
+    "price": "200",
+    "image": "https://picsum.photos/200/300",
+    "category": "Accessories"
+  },
+  {
+    "_id": "22",
+    "name": "Fitness Tracker",
+    "description": "Compact fitness tracker with step counting and heart rate monitoring",
+    "price": "2300",
+    "image": "https://picsum.photos/200/300",
+    "category": "Gadgets"
+  },
+  {
+    "_id": "23",
+    "name": "Canvas Sneakers",
+    "description": "Classic canvas sneakers with a comfortable fit",
+    "price": "1100",
+    "image": "https://picsum.photos/200/300",
+    "category": "Clothing"
+  },
+  {
+    "_id": "24",
+    "name": "Power Bank",
+    "description": "Compact power bank with fast charging capabilities",
+    "price": "1500",
+    "image": "https://picsum.photos/200/300",
+    "category": "Gadgets"
+  },
+  {
+    "_id": "25",
+    "name": "Mug with Logo",
+    "description": "Ceramic mug featuring a custom logo",
+    "price": "300",
+    "image": "https://picsum.photos/200/300",
+    "category": "Swag"
+  }
+]
